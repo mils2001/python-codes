@@ -13,3 +13,7 @@ person["age"]
 
 name = input("enter your name")
 print(f"hello {name}!")
+
+
+fruits = ["apple","banana","mango","orange",]
+fruits.pop(3)
