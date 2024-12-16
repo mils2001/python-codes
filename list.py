@@ -9,5 +9,7 @@ person = {
 }
 print(person["name"])
 person["age"]
-
    
+
+name = input("enter your name")
+print(f"hello {name}!")
